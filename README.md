@@ -4,7 +4,7 @@
 
 
 - Automated municipal level COVID-19 tracker:  
-<https://open-canada.github.io/Apps/covid.html> (mirror: https://rcanada.shinyapps.io/covid) - 
+<https://open-canada.github.io/Apps/covid> (mirror: https://rcanada.shinyapps.io/covid) - 
 source: GitHub
 
 - PSES Results interactive analysis and visualization:   

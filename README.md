@@ -2,7 +2,7 @@
 
 # Open Canada Applications, with open source codes 
 
-These Applications have been built with contributions from various data scientists across Government of Canada - for public use, using open Canada data, many as an outcome of the [Lunch and Learn R](https://open-canada.github.io/Use-R/) training and solcializing. 
+These Applications have been built with contributions from various data scientists across Government of Canada - for public use, using open Canada data, many as an outcome of the [Lunch and Learn R](https://open-canada.github.io/Use-R/) training and socializing. 
 
 - Automated municipal level COVID-19 tracker:  
 <https://open-canada.github.io/Apps/covid> (mirror: https://rcanada.shinyapps.io/covid, Seel also for the USA: https://itrack.shinyapps.io/covid/us.Rmd)

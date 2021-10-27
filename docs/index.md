@@ -28,7 +28,7 @@ URL: <https://open-canada.github.io/Apps/atip.html> (mirror: https://rcanada.shi
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/atip
  
 Geo-mapped current, historical and predicted border wait times:    
-URL:<https://open-canada.github.io/Apps/border.html> (redirect to  [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-interactive-tracker-itrack-border#:~:text=Border%20Wait%20Time%20Interactive%20Tracker%20%28iTrack-Border%29%20is%20an,Wait%20Time%20%28BWT%29%20at%20Canadian%20land%20border%20crossings) .   
+URL:<https://open-canada.github.io/Apps/border.html> (redirect to  [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-interactive-tracker-itrack-border)  ).   
 Source: https://gccode.ssc-spc.gc.ca/gorodnichy/simborder
 
 

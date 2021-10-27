@@ -1,2 +1,2 @@
 
-Source files for open-canada.github.io/Apps located in /docs folder
+Source files for <https://open-canada.github.io/Apps> located in /docs folder

@@ -1,6 +1,8 @@
-# Applications contributed by R4GC community, with open source codes 
 
 <!-- 
+
+# Applications contributed by R4GC community, with open source codes 
+
 - <https://open-canada.github.io/Apps/covid.html> (source: GitHub)
 
 - <https://open-canada.github.io/Apps/pses.html> (source: GitHub)
@@ -13,7 +15,7 @@ redirect to [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-inte
 -->
 
 
-These Applications have been built with contributions from various data scientists across the Government of Canada - for public use, using open Canada data, many as an outcome of the [R4GC community](https://open-canada.github.io/UseR/) training and socializing. 
+These Applications and codes have been built with contributions from various data scientists across the Government of Canada - for public use, using open Canada data, many as an outcome of the [R4GC community](https://open-canada.github.io/UseR/) training and socializing. 
 
 Automated municipal level COVID-19 tracker:  
 URL: <https://open-canada.github.io/Apps/covid> (See also: https://itrack.shinyapps.io/covid/us.Rmd).   

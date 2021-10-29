@@ -26,6 +26,7 @@ Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/pses
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-eccc-st.png?raw=true">
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-eccc-st-vs-themes.png?raw=true">
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-cbsa-se-over-time.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-cbsa-se-autoreport.png?raw=true">
 
 #### Automated municipal level COVID-19 tracker: 
 URL: <https://open-canada.github.io/Apps/covid> (See also: <https://itrack.shinyapps.io/covid/us.Rmd>).   
@@ -40,7 +41,8 @@ Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/covid
 <!-- URL: <https://open-canada.github.io/Apps/atip> (mirror: https://rcanada.shinyapps.io/TBS-ATI-NLP/).    -->
 Source: <https://gccode.ssc-spc.gc.ca/r4gc/codes/atip
 
-<img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/NLP-ATIP1.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/NLP-ATIP1.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/NLP-ATIP2.png?raw=true">
 
  
 #### Geo-mapped current, historical and predicted border wait times:    

@@ -49,8 +49,8 @@ Source: <https://gccode.ssc-spc.gc.ca/r4gc/codes/atip
 URL: <https://open-canada.github.io/Apps/border> (redirect to [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-interactive-tracker-itrack-border)).   
 Source: https://gccode.ssc-spc.gc.ca/gorodnichy/simborder
 
-<img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-border1.png?raw=true">
-
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-border1.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-border2.png?raw=true">
 
 #### Demo and tool for linking noisy data records: 
 URL: https://rcanada.shinyapps.io/demo/ (presented at the [#GC Data2021 Conference](https://wiki.gccollab.ca/2021_Data_Conference/Agenda) )    
@@ -64,10 +64,11 @@ Source: https://gccode.ssc-spc.gc.ca/r4gc/resources/text/similarity
 
 <!-- img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/textcomparator-App-fromR.png?raw=true"></img-->
 <img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/textcomparator-manyFiles.png?raw=true">
-
+<img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/textcomparator-App-fromRmd.png?raw=true">
 
 #### Large table summarizer: 
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/shiny/-/tree/master/table-summarizer
 
 <img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/largedata-summarizer1.png?raw=true">
+
 

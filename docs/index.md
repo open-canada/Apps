@@ -18,17 +18,22 @@ redirect to [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-inte
 These Applications and codes have been built with contributions from  data scientists across the Government of Canada, using open source tools and  data, many as an outcome of the [R4GC community](https://open-canada.github.io/UseR/) training and socializing. 
 
 
-#### PSES Results interactive analysis and visualization:  
+#### PSES Results interactive analysis and visualization: 
 URL: <https://open-canada.github.io/Apps/pses>    
 <!-- (mirror:  https://itrack.shinyapps.io/PSES/, use case: https://itrack.shinyapps.io/PSES-CBSA-SE).   -->
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/pses
 
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-eccc-st.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-eccc-st-vs-themes.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-cbsa-se-over-time.png?raw=true">
 
 #### Automated municipal level COVID-19 tracker: 
 URL: <https://open-canada.github.io/Apps/covid> (See also: <https://itrack.shinyapps.io/covid/us.Rmd>).   
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/covid 
 
-<img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-covid2.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-covid2.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/covid-us-geo.png?raw=true">
+
 
 
 #### Automated ATIP requests topic extraction: 

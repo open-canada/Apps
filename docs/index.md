@@ -22,24 +22,30 @@ URL: <https://open-canada.github.io/Apps/covid> (See also: https://itrack.shinya
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/covid 
 
 PSES Results interactive analysis and visualization:   
-URL: <https://open-canada.github.io/Apps/pses> (mirror:  https://itrack.shinyapps.io/PSES/, use case: https://itrack.shinyapps.io/PSES-CBSA-SE).   
+URL: <https://open-canada.github.io/Apps/pses>    
+<!-- (mirror:  https://itrack.shinyapps.io/PSES/, use case: https://itrack.shinyapps.io/PSES-CBSA-SE).   -->
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/pses
 
 Automated ATIP requests topic extraction:   
-URL: <https://open-canada.github.io/Apps/atip> (mirror: https://rcanada.shinyapps.io/TBS-ATI-NLP/).    
+<!-- URL: <https://open-canada.github.io/Apps/atip> (mirror: https://rcanada.shinyapps.io/TBS-ATI-NLP/).    -->
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/atip
  
 Geo-mapped current, historical and predicted border wait times:    
-URL:<https://open-canada.github.io/Apps/border> (redirect to  [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-interactive-tracker-itrack-border)  ).   
+URL: <https://open-canada.github.io/Apps/border> (redirect to [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-interactive-tracker-itrack-border)).   
 Source: https://gccode.ssc-spc.gc.ca/gorodnichy/simborder
 
 
-Demo and tool for linking noisy data records (presented at [#GCData2021](https://wiki.gccollab.ca/2021_Data_Conference/Agenda) ):    
-URL: https://rcanada.shinyapps.io/demo/.   
+Demo and tool for linking noisy data records: 
+URL: https://rcanada.shinyapps.io/demo/ (presented at the [#GC Data2021 Conference](https://wiki.gccollab.ca/2021_Data_Conference/Agenda) )    
 Source: https://gccode.ssc-spc.gc.ca/gorodnichy/iviLink
 
-Other Apps available at <https://gccode.ssc-spc.gc.ca/r4gc>:
 
-- Html pages comparator: https://gccode.ssc-spc.gc.ca/r4gc/resources/text/similarity
-- Large table summarizer: https://gccode.ssc-spc.gc.ca/r4gc/codes/shiny/-/tree/master/table-summarizer
+Html pages comparator: 
+Source: https://gccode.ssc-spc.gc.ca/r4gc/resources/text/similarity
+
+
+Large table summarizer: 
+Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/shiny/-/tree/master/table-summarizer
+
+<img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/textcomparator-App-fromR.png?raw=true"></img>
 

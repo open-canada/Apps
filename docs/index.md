@@ -15,23 +15,23 @@ redirect to [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-inte
 -->
 
 
-### These Applications and codes have been built with contributions from  data scientists across the Government of Canada, using open Canada data, many as an outcome of the [R4GC community](https://open-canada.github.io/UseR/) training and socializing. 
+These Applications and codes have been built with contributions from  data scientists across the Government of Canada, using open source tools and  data, many as an outcome of the [R4GC community](https://open-canada.github.io/UseR/) training and socializing. 
 
 
-#### PSES Results interactive analysis and visualization:   
+#### PSES Results interactive analysis and visualization:  
 URL: <https://open-canada.github.io/Apps/pses>    
 <!-- (mirror:  https://itrack.shinyapps.io/PSES/, use case: https://itrack.shinyapps.io/PSES-CBSA-SE).   -->
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/pses
 
 
-#### Automated municipal level COVID-19 tracker:  
+#### Automated municipal level COVID-19 tracker: 
 URL: <https://open-canada.github.io/Apps/covid> (See also: <https://itrack.shinyapps.io/covid/us.Rmd>).   
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/covid 
 
 <img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-covid2.png?raw=true">
 
 
-#### Automated ATIP requests topic extraction:   
+#### Automated ATIP requests topic extraction: 
 <!-- URL: <https://open-canada.github.io/Apps/atip> (mirror: https://rcanada.shinyapps.io/TBS-ATI-NLP/).    -->
 Source: <https://gccode.ssc-spc.gc.ca/r4gc/codes/atip
 
@@ -52,14 +52,14 @@ Source: https://gccode.ssc-spc.gc.ca/gorodnichy/iviLink
 <img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/data-eng-record-linking1.png?raw=true">
 
 
-#### Html pages comparator:    
+#### Html pages comparator:  
 Source: https://gccode.ssc-spc.gc.ca/r4gc/resources/text/similarity
 
 <!-- img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/textcomparator-App-fromR.png?raw=true"></img-->
 <img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/textcomparator-manyFiles.png?raw=true">
 
 
-#### Large table summarizer:    
+#### Large table summarizer: 
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/shiny/-/tree/master/table-summarizer
 
 <img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/largedata-summarizer1.png?raw=true">

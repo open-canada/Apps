@@ -19,7 +19,7 @@ These Applications and codes have been built with contributions from  data scien
 
 
 #### PSES Results interactive analysis and visualization: 
-URL: <https://open-canada.github.io/Apps/pses>    
+URL: <https://open-canada.github.io/Apps/pses> 
 <!-- (mirror:  https://itrack.shinyapps.io/PSES/, use case: https://itrack.shinyapps.io/PSES-CBSA-SE).   -->
 Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/pses
 

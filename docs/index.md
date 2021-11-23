@@ -25,8 +25,8 @@ Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/pses
 
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-eccc-st.png?raw=true">
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-eccc-st-vs-themes.png?raw=true">
-<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-cbsa-se-over-time.png?raw=true">
-<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-cbsa-se-autoreport.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-over-time.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-autoreport.png?raw=true">
 
 #### Automated municipal level COVID-19 tracker: 
 URL: <https://open-canada.github.io/Apps/covid> (See also: <https://itrack.shinyapps.io/covid/us.Rmd>).   

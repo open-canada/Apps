@@ -18,33 +18,36 @@ redirect to [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-inte
 These Applications and codes have been built with contributions from  data scientists across the Government of Canada, using open source tools and  data, many as an outcome of the [R4GC community](https://open-canada.github.io/UseR/) training and socializing. 
 
 
+#### Open Canada Vital Statistics Tracker: 
+URL: <https://open-canada.github.io/Apps/vitals>     
+<!-- (mirror: https:/o-canada.shinyapps.io/vitals/).    -->
+Source: <https://github.com/open-canada/vitals>
+
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/vitals1.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/vitals2.png?raw=true">
+
+ 
+#### Automated ATIP requests topic extraction: 
+URL: <https://open-canada.github.io/Apps/atip>     
+<!-- (mirror: https://rcanada.shinyapps.io/TBS-ATI-NLP/).    -->
+Source: <https://github.com/PatLittle/TBS-ATI-NLP_Exploration>
+<!-- https://gccode.ssc-spc.gc.ca/r4gc/codes/atip-->
+
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/NLP-ATIP1.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/NLP-ATIP2.png?raw=true">
+
+ 
+
 #### PSES Results interactive analysis and visualization: 
-URL: <https://open-canada.github.io/Apps/pses> 
+URL: <https://open-canada.github.io/Apps/pses>     
 <!-- (mirror:  https://itrack.shinyapps.io/PSES/, use case: https://itrack.shinyapps.io/PSES-CBSA-SE).   -->
-Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/pses
+Source: <https://gccode.ssc-spc.gc.ca/r4gc/codes/pses>
 
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-eccc-st.png?raw=true">
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-eccc-st-vs-themes.png?raw=true">
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-over-time.png?raw=true">
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-autoreport.png?raw=true">
 
-#### Automated municipal level COVID-19 tracker: 
-URL: <https://open-canada.github.io/Apps/covid> (See also: <https://itrack.shinyapps.io/covid/us.Rmd>).   
-Source: https://gccode.ssc-spc.gc.ca/r4gc/codes/covid 
-
-<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-covid2.png?raw=true">
-<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/covid-us-geo.png?raw=true">
-
-
-
-#### Automated ATIP requests topic extraction: 
-<!-- URL: <https://open-canada.github.io/Apps/atip> (mirror: https://rcanada.shinyapps.io/TBS-ATI-NLP/).    -->
-Source: <https://gccode.ssc-spc.gc.ca/r4gc/codes/atip
-
-<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/NLP-ATIP1.png?raw=true">
-<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/NLP-ATIP2.png?raw=true">
-
- 
 #### Geo-mapped current, historical and predicted border wait times:    
 URL: <https://open-canada.github.io/Apps/border> (redirect to [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-interactive-tracker-itrack-border)).   
 Source: https://gccode.ssc-spc.gc.ca/gorodnichy/simborder
@@ -52,11 +55,21 @@ Source: https://gccode.ssc-spc.gc.ca/gorodnichy/simborder
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-border1.png?raw=true">
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-border2.png?raw=true">
 
+#### Municipal level COVID-19 tracker: 
+URL: <https://open-canada.github.io/Apps/covid> (See also: <https://itrack.shinyapps.io/covid/us.Rmd>).   
+Source: <https://gccode.ssc-spc.gc.ca/r4gc/codes/covid> 
+
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-covid2.png?raw=true">
+<img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/covid-us-geo.png?raw=true">
+
+
 #### Demo and tool for linking noisy data records: 
 URL: https://rcanada.shinyapps.io/demo/ (presented at the [#GC Data2021 Conference](https://wiki.gccollab.ca/2021_Data_Conference/Agenda) )    
 Source: https://gccode.ssc-spc.gc.ca/gorodnichy/iviLink
 
 <img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/data-eng-record-linking1.png?raw=true">
+
+
 
 
 #### Html pages comparator:  

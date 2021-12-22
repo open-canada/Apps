@@ -30,7 +30,7 @@ Source: <https://github.com/open-canada/vitals>
 #### Automated ATIP requests topic extraction: 
 URL: <https://open-canada.github.io/Apps/atip>     
 <!-- (mirror: https://rcanada.shinyapps.io/TBS-ATI-NLP/).    -->
-Source: <https://github.com/PatLittle/TBS-ATI-NLP_Exploration>
+Source: <https://github.com/open-canada/TBS-ATI-NLP_Exploration>
 <!-- https://gccode.ssc-spc.gc.ca/r4gc/codes/atip-->
 
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/NLP-ATIP1.png?raw=true">
@@ -41,7 +41,8 @@ Source: <https://github.com/PatLittle/TBS-ATI-NLP_Exploration>
 #### PSES Results interactive analysis and visualization: 
 URL: <https://open-canada.github.io/Apps/pses>     
 <!-- (mirror:  https://itrack.shinyapps.io/PSES/, use case: https://itrack.shinyapps.io/PSES-CBSA-SE).   -->
-Source: <https://gccode.ssc-spc.gc.ca/r4gc/codes/pses>
+Source: <https://github.com/open-canada/iTrack-PSES-development>
+<!-- https://gccode.ssc-spc.gc.ca/r4gc/codes/pses -->
 
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-eccc-st.png?raw=true">
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-eccc-st-vs-themes.png?raw=true">

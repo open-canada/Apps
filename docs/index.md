@@ -63,7 +63,7 @@ Data: [Open Government - Current Border Wait Times](https://www.cbsa-asfc.gc.ca/
 
 #### Municipal level COVID-19 tracker: 
 URL: <https://open-canada.github.io/Apps/covid> (See also: <https://itrack.shinyapps.io/covid/us.Rmd>).   
-Source: <https://gccode.ssc-spc.gc.ca/r4gc/codes/covid> 
+Source: <https://gccode.ssc-spc.gc.ca/r4gc/codes/covid>     
 Data:  [University of Toronto Coronavirus database](https://art-bd.shinyapps.io/covid19canada/), [Johns Hopkins University Coronavirus database](https://coronavirus.jhu.edu/)
 
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-covid2.png?raw=true">
@@ -72,7 +72,7 @@ Data:  [University of Toronto Coronavirus database](https://art-bd.shinyapps.io/
 
 #### Demo and tool for linking noisy data records: 
 URL: https://rcanada.shinyapps.io/demo/ (presented at the [#GC Data2021 Conference](https://wiki.gccollab.ca/2021_Data_Conference/Agenda) )    
-Source: https://gccode.ssc-spc.gc.ca/gorodnichy/iviLink
+Source: https://gccode.ssc-spc.gc.ca/gorodnichy/iviLink    
 Data: DOWNLOAD YOUR OWN
 
 <img width="400" src="https://github.com/open-canada/Apps/blob/main/docs/images/data-eng-record-linking1.png?raw=true">

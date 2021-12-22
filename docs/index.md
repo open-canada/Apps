@@ -50,7 +50,7 @@ Source: <https://github.com/open-canada/iTrack-PSES-development>
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/pses-autoreport.png?raw=true">
 
 #### Geo-mapped current, historical and predicted border wait times:    
-URL: <https://open-canada.github.io/Apps/border> (redirect to [open.canada.ca](https://open.canada.ca/en/app/border-wait-time-interactive-tracker-itrack-border)).   
+URL: <https://open-canada.github.io/Apps/border> (Also available from  [open.canada.ca App portal](https://open.canada.ca/en/app/border-wait-time-interactive-tracker-itrack-border)).   
 Source: https://gccode.ssc-spc.gc.ca/gorodnichy/simborder
 
 <img height="300" src="https://github.com/open-canada/Apps/blob/main/docs/images/itrack-border1.png?raw=true">
